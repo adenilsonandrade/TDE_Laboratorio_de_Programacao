@@ -1,0 +1,29 @@
+1. Calculadora de formas geométricas
+Crie uma classe abstrata "FormaGeometrica" com métodos abstratos "calcularArea()" e "calcularPerimetro()". Em seguida, implemente classes derivadas para "Circulo", "Retangulo" e "Triangulo", cada uma com sua implementação dos métodos abstratos.
+ 
+2. Sistema de pagamento
+Crie uma classe abstrata "Pagamento" com métodos abstratos "realizarPagamento()" e "emitirRecibo()". Implemente classes derivadas para diferentes métodos de pagamento, como "CartaoCredito", "CartaoDebito" e "Dinheiro".
+
+3. Animais e suas ações
+Crie uma classe abstrata "Animal" com métodos abstratos "comer()", "dormir()" e "mover()". Implemente classes derivadas para diferentes animais, como "Cachorro", "Gato" e "Peixe", cada uma com sua implementação dos métodos abstratos.
+ 
+4. Sistema de arquivos
+Crie uma classe abstrata "Arquivo" com métodos abstratos "abrir()" e "fechar()". Implemente classes derivadas para diferentes tipos de arquivos, como "ArquivoTexto", "ArquivoImagem" e "ArquivoAudio", cada uma com sua implementação dos métodos abstratos.
+ 
+5. Produtos e seus preços
+Crie uma classe abstrata "Produto" com métodos abstratos "calcularPreco()" e "exibirDetalhes()". Implemente classes derivadas para diferentes tipos de produtos, como "Livro", "Roupa" e "Eletronico", cada uma com sua implementação dos métodos abstratos.
+ 
+6. Funcionários e suas funções
+Crie uma classe abstrata "Funcionario" com métodos abstratos "calcularSalario()" e "realizarTarefa()". Implemente classes derivadas para diferentes cargos, como "Gerente", "Vendedor" e "Estagiario", cada uma com sua implementação dos métodos abstratos.
+ 
+7. Jogadores e suas habilidades
+Crie uma classe abstrata "Jogador" com métodos abstratos "atacar()" e "defender()". Implemente classes derivadas para diferentes posições de jogadores de futebol, como "Atacante", "MeioCampo" e "Goleiro", cada uma com sua implementação dos métodos abstratos.
+ 
+8. Impressoras e suas funcionalidades
+Crie uma classe abstrata "Impressora" com métodos abstratos "imprimir()" e "escanear()". Implemente classes derivadas para diferentes tipos de impressoras, como "ImpressoraJatoTinta", "ImpressoraLaser" e "ImpressoraMatricial", cada uma com sua implementação dos métodos abstratos.
+ 
+9. Transportes e suas capacidades
+Crie uma classe abstrata "Transporte" com métodos abstratos "carregar()" e "descarregar()". Implemente classes derivadas para diferentes tipos de transportes, como "Caminhao", "Trem" e "Navio", cada uma com sua implementação dos métodos abstratos.
+ 
+10. Dispositivos de armazenamento
+Crie uma classe abstrata "DispositivoArmazenamento" com métodos abstratos "lerDados()" e "gravarDados()". Implemente classes derivadas
